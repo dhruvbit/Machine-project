@@ -1,0 +1,15 @@
+
+1)PLAN FOR 9 DAYS 
+
+1)project basic one git hub daily not resume -medium
+2) pytorch-neural network - hard 
+3) mlfow - easy 
+   
+        ||
+        \/ 
+
+2)AFTER COMPLETION OF PREVIOUS THING 
+
+1)Databrick ml eng document -medium
+2)start with the intermediate level -hard        
+3)pyspark-sql dataquest/youtube -easy
